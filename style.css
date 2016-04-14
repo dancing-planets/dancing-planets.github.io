@@ -1,0 +1,14 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+svg {
+  background: #eee;
+}
+
+circle {
+  fill: steelblue;
+  stroke: #fff;
+  stroke-width: 3px;
+}
+
