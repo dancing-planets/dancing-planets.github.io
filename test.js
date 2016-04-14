@@ -1,4 +1,5 @@
 $(function() {
+// inspired by http://ensign.editme.com/t43dances
   var width = 500;
   var height = 500;
   var easeparam = "linear";
